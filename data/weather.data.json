@@ -1,8 +1,9 @@
 {
-    "CurrentWeatherData" : {
-        "lat": 54, 
+    "CurrentWeatherData": {
+        "lat": 54,
         "lon": 55,
         "id": 502540,
-        "name": "Rayevskiy"
+        "name": "Rayevskiy",
+        "name1": "Abc"
     }
 }
